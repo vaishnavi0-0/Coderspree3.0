@@ -141,7 +141,7 @@ def write_to_readme(filename, students_list):
 
 def write_to_pendingReadme(filename, students_list):
 
-    mdFile = MdUtils(file_name=filename, title="Welcome to Coderspree2.0 🔥")
+    mdFile = MdUtils(file_name=filename, title="Welcome to Coderspree3.0 ")
 
     list_of_strings = ["Profile", "Name", "Domain", "Solved", "Year", "logs"]
 
