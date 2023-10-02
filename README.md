@@ -3,7 +3,7 @@ Welcome to Coderspree3.0 🎃
 ==========================
 
 
-<p align = 'center'><a href='https://innogeeks.in/' target='_blank'><img src='https://user-images.githubusercontent.com/33064931/193105033-d03aa2e9-d4c3-4d02-b33e-466f3c567f39.png' href='www.innogeeks.com'></a></p>
+<p align = 'center'><a href='https://innogeeks.in/' target='_blank'><img src='https://template-mail-images.s3.ap-south-1.amazonaws.com/Pink+and+Teal+Llama+Desk+Strip+(4).png' href='www.innogeeks.com'></a></p>
 
 ![Status Badge](https://github.com/InnogeeksOrganization/coderspree/actions/workflows/checkSubmission.yml/badge.svg)  
 
