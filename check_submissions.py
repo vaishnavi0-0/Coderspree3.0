@@ -9,7 +9,7 @@ home = os.path.abspath(Path(__file__).parent)
 
 submission_architecture = {"Week1": 5,"Week2": 6,"Week3":5,"Week4":4};
 
-domains = ["AR-VR", "IOT", "ML", "Android", "Web"]
+domains = ["SecondYear", "FirstYear"]
 
 
 class Student:
