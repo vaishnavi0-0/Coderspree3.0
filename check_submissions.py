@@ -7,9 +7,9 @@ import requests
 
 home = os.path.abspath(Path(__file__).parent)
 
-submission_architecture = {"Week1": 5,"Week2": 6,"Week3":5,"Week4":4};
+submission_architecture = {"Week_1": 5,"week_2": 6,"week_3":5,"week_4":4};
 
-domains = ["SecondYear", "FirstYear"]
+domains = ["SecondYear", "ThirdYear"]
 
 
 class Student:
@@ -141,7 +141,7 @@ def write_to_readme(filename, students_list):
 
 def write_to_pendingReadme(filename, students_list):
 
-    mdFile = MdUtils(file_name=filename, title="Welcome to Coderspree3.0 ")
+    mdFile = MdUtils(file_name=filename, title="Welcome to Coderspree2.0 🔥")
 
     list_of_strings = ["Profile", "Name", "Domain", "Solved", "Year", "logs"]
 
