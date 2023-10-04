@@ -6,10 +6,11 @@
 <br> &nbsp;
 ## Name Convention
 
-- Make a folder under your Year name with the following format `AdityyaX_AdityaPachauri_2125csme1008_3`
+- Make a folder under your Year name with the following format `GitHubUsername_RealName_LibraryID_Year`
 
 Example: `AdityyaX_AdityaPachauri_2125csme1008_3`
-
+## Name Convention
+In Any Language you are comfortable with.
 ## The folder should be structured as follows:
 
 - `AdityyaX_AdityaPachauri_2125csme1008_3`
@@ -34,4 +35,4 @@ and so on....
 - Commit the changes
 - Make a PR
 
-![Intro](link)
+
