@@ -14,10 +14,10 @@ In Any Language you are comfortable with.
 ## The folder should be structured as follows:
 
 - `AdityyaX_AdityaPachauri_2125csme1008_3`
-  - `week1`
+  - `Week1`
     - `printZ.cpp` ( your code files )
     - `nextQuestion.cpp`
-  - `week_2`
+  - `Week_2`
     - `patternQuestion.cpp`
     - `.`
     - `.`
