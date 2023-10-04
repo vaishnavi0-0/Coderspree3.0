@@ -6,7 +6,7 @@
 <br> &nbsp;
 ## Name Convention
 
-- Make a folder under your domain name with the following format `AdityyaX_AdityaPachauri_2125csme1008_3`
+- Make a folder under your Year name with the following format `AdityyaX_AdityaPachauri_2125csme1008_3`
 
 Example: `AdityyaX_AdityaPachauri_2125csme1008_3`
 
@@ -16,7 +16,7 @@ Example: `AdityyaX_AdityaPachauri_2125csme1008_3`
   - `week1`
     - `printZ.cpp` ( your code files )
     - `nextQuestion.cpp`
-  - `Patterns`
+  - `week_2`
     - `patternQuestion.cpp`
     - `.`
     - `.`
