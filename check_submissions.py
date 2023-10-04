@@ -8,7 +8,6 @@ import requests
 home = os.path.abspath(Path(__file__).parent)
 
 submission_architecture = {"Week_1": 5,"week_2": 6,"week_3":5,"week_4":4};
-
 domains = ["SecondYear", "ThirdYear"]
 
 
