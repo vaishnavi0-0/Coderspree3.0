@@ -98,7 +98,7 @@ def write_to_readme(filename, students_list):
         )
     )
 
-    list_of_strings: List[Any] = ["No", "Profile", "Name", "Domain", "Year", "Solved"]
+    list_of_strings: List[Any] = ["No", "Profile", "Name", "Year", "Solved"]
 
     cols_count = len(list_of_strings)
     mdFile.new_line()
@@ -120,7 +120,7 @@ def write_to_readme(filename, students_list):
                     else "https://github.com/InnogeeksOrganization",
                     text=student.name,
                 ),
-                student.domain,
+               
                 student.year,
                 str(student.solved),
             ]
@@ -142,7 +142,7 @@ def write_to_pendingReadme(filename, students_list):
 
     mdFile = MdUtils(file_name=filename, title="Welcome to Coderspree3.0 🔥")
 
-    list_of_strings = ["Profile", "Name", "Domain", "Solved", "Year", "logs"]
+    list_of_strings = ["Profile", "Name", "Solved", "Year", "logs"]
 
     cols_count = len(list_of_strings)
     mdFile.new_line()
@@ -161,7 +161,7 @@ def write_to_pendingReadme(filename, students_list):
                     else "https://github.com/InnogeeksOrganization",
                     text=student.name,
                 ),
-                student.domain,
+              
                 str(student.solved),
                 student.year,
                 student.logs,
