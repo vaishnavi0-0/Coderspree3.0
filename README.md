@@ -3,8 +3,8 @@ Welcome to Coderspree3.0 🎃
 ==========================
 
 
-## **This is a coding event repo.**  
-<p align = 'center'><a href='https://innogeeks.in/' target='_blank'><img src='https://user-images.githubusercontent.com/33064931/193105033-d03aa2e9-d4c3-4d02-b33e-466f3c567f39.png' href='www.innogeeks.com'></a></p>
+## **One-month Coding sprint to summon all the wizards of problem-solving, ranging from beginner to advanced! ✨ Get ready to be a part of the most auspicious society of the college, Innogeeks. Exclusive  access to buzzing discord server of Innogeeks which is full of knowledge and innovation. 🚀 Become a part of mentoring sessions by our amazing team of coder spree mentors, not just that - be ready to outshine on the leaderboard and get a chance to win exclusive coderspree goodies! (limited to students of KIET, we'll expand it next time :)🍫**  
+<p align = 'center'><a href='https://innogeeks.in/' target='_blank'><img src='https://template-mail-images.s3.ap-south-1.amazonaws.com/20231002_150040_0000+(1).png' href='www.innogeeks.com'></a></p>
 
 ![Status Badge](https://github.com/InnogeeksOrganization/coderspree/actions/workflows/checkSubmission.yml/badge.svg)  
 
