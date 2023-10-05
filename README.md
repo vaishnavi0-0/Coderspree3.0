@@ -12,7 +12,7 @@ Welcome to Coderspree3.0 🎃
 **Please visit the [Guide](./Guide/README.md)**  
 
 
-Minimum problems to complete | **Week_1**: `5` | **Week_2**: `6` | **Week_3**: `5` | **Week_4**: `4` |   
+Minimum problems to complete | **Week_1**: `5` | **Week_2**: `6` | **Week_3**: `5` | **eek_4**: `4` |   
 
 # Stats
   
