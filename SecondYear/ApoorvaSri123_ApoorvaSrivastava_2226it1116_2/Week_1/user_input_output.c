@@ -2,14 +2,14 @@
 #include <conio.h>
 
 int main() {
-    char input;
+    char ch;
 
     printf("Enter a character: ");
-    scanf(" %c", &input);
+    scanf(" %c", &ch);
 
-    if (input>='A'&& input<='Z') {
+    if (ch>='A'&& ch<='Z') {
         printf("1\n");
-    } else if (input>='a'&& input<='z') {
+    } else if (ch>='a'&& ch<='z') {
         printf("0\n");
     } else{
         printf("-1\n");
