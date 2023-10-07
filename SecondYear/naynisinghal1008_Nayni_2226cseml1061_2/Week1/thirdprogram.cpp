@@ -1,3 +1,4 @@
+
 string compareIfElse(int a, int b) {
 	if(a>b)
 	{
@@ -12,3 +13,4 @@ string compareIfElse(int a, int b) {
 		return "equal";
 	}
 }
+
