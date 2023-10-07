@@ -6,6 +6,7 @@ Welcome to Coderspree3.0 🔥
 
 |Profile|Name|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: |
+|![AnimeshKumarSingh](https://avatars.githubusercontent.com/u/111107139?v=4&s=100)|[AnimeshKumarSingh](https://github.com/any-mesh)|16|2|Completed `16` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
 |![AnshikaChhabra](https://avatars.githubusercontent.com/u/124261062?v=4&s=100)|[AnshikaChhabra](https://github.com/anshika1812)|15|2|Completed `15` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
 |![AvantikaSharma](https://avatars.githubusercontent.com/u/123316093?v=4&s=100)|[AvantikaSharma](https://github.com/AvantikaSharma2307)|7|2226cseai1008|Completed `7` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
 |![ParthAgarwal](https://avatars.githubusercontent.com/u/113423032?v=4&s=100)|[ParthAgarwal](https://github.com/Parth27904)|1|2|Completed `1` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
@@ -16,7 +17,6 @@ Welcome to Coderspree3.0 🔥
 |![AbhinavRai](https://avatars.githubusercontent.com/u/122885696?v=4&s=100)|[AbhinavRai](https://github.com/AbhinavJD7)|1|2|Completed `1` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
 |![PraveenPrakashPal](https://avatars.githubusercontent.com/u/120311694?v=4&s=100)|[PraveenPrakashPal](https://github.com/Pal-prakash)|1|2|Completed `1` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
 |![YashasviSaxena](https://avatars.githubusercontent.com/u/122160906?v=4&s=100)|[YashasviSaxena](https://github.com/yashasvisxena)|1|2|Completed `1` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
-|![AnimeshKumarSingh](https://avatars.githubusercontent.com/u/111107139?v=4&s=100)|[AnimeshKumarSingh](https://github.com/any-mesh)|1|2|Completed `1` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
 |![KishanAgrawal](https://avatars.githubusercontent.com/u/130860302?v=4&s=100)|[KishanAgrawal](https://github.com/Kishan663)|1|2|Completed `1` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
 |![AdityaSharma](https://avatars.githubusercontent.com/u/123371724?v=4&s=100)|[AdityaSharma](https://github.com/adityshrma08)|1|2|Completed `1` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
 |![GamandeepSingh](https://avatars.githubusercontent.com/u/116256043?v=4&s=100)|[GamandeepSingh](https://github.com/gamandeepsingh)|1|3|Completed `1` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
