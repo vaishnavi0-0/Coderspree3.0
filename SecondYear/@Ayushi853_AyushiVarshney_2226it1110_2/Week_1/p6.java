@@ -1,4 +1,4 @@
-class Solution {
+class p6 {
 
     void printTriangle(int n) {
         // code here
