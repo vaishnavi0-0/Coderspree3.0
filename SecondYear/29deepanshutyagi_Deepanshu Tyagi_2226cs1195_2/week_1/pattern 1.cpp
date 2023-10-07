@@ -13,16 +13,16 @@ public:
     }
 };
 
-int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        int n;
-        cin >> n;
+// int main() {
+//     int t;
+//     cin >> t;
+//     while (t--) {
+//         int n;
+//         cin >> n;
 
-        Solution ob;
-        ob.printSquare(n);
-    }
-    return 0;
-}
+//         Solution ob;
+//         ob.printSquare(n);
+//     }
+//     return 0;
+// }
 

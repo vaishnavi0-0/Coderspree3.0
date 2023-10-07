@@ -17,16 +17,16 @@ class Solution {
 
 //{ Driver Code Starts.
 
-int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        int n;
-        cin >> n;
+// int main() {
+//     int t;
+//     cin >> t;
+//     while (t--) {
+//         int n;
+//         cin >> n;
 
-        Solution ob;
-        ob.printTriangle(n);
-    }
-    return 0;
-}
+//         Solution ob;
+//         ob.printTriangle(n);
+//     }
+//     return 0;
+// }
 // } Driver Code Ends
