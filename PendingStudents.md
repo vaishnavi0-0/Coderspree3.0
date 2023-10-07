@@ -6,6 +6,7 @@ Welcome to Coderspree3.0 🔥
 
 |Profile|Name|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: |
+|![AnshikaChhabra](https://avatars.githubusercontent.com/u/124261062?v=4&s=100)|[AnshikaChhabra](https://github.com/anshika1812)|15|2|Completed `15` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
 |![ParthAgarwal](https://avatars.githubusercontent.com/u/113423032?v=4&s=100)|[ParthAgarwal](https://github.com/Parth27904)|1|2|Completed `1` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
 |![Shubh](https://avatars.githubusercontent.com/u/118475525?v=4&s=100)|[Shubh](https://github.com/ShubhAgarwal0704)|1|2|Completed `1` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
 |![Rashmi](https://avatars.githubusercontent.com/u/123196933?v=4&s=100)|[Rashmi](https://github.com/MiRa202321)|1|2|Completed `1` with minimum `5` in `Week_1`, `Week_2` Folder not found, `Week_3` Folder not found, `Week_4` Folder not found, |
