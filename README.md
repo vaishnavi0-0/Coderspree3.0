@@ -12,10 +12,17 @@ Welcome to Coderspree3.0 🎃
 **Please visit the [Guide](./Guide/README.md)**  
 
 
-Minimum problems to complete | **Week_1**: `5` | **Week_2**: `6` | **Week_3**: `5` | **Week_4**: `4` |   
+Minimum problems to complete | **Week_1**: `5` |   
 
 # Stats
   
 
 |No|Profile|Name|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: |
+|1|![AnimeshKumarSingh](https://avatars.githubusercontent.com/u/111107139?v=4&s=100)|[AnimeshKumarSingh](https://github.com/any-mesh)|2|16|
+|2|![AdityaSharma](https://avatars.githubusercontent.com/u/123371724?v=4&s=100)|[AdityaSharma](https://github.com/adityshrma08)|2|16|
+|3|![PraveerNandan](https://avatars.githubusercontent.com/u/134937008?v=4&s=100)|[PraveerNandan](https://github.com/praveer7398)|2|15|
+|4|![Invalid Foldername](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[Invalid Foldername](https://github.com/InnogeeksOrganization)|Invalid Foldername|15|
+|5|![AnantJaiswal](https://avatars.githubusercontent.com/u/110235072?v=4&s=100)|[AnantJaiswal](https://github.com/Anantj2499)|2|15|
+|6|![AnshikaChhabra](https://avatars.githubusercontent.com/u/124261062?v=4&s=100)|[AnshikaChhabra](https://github.com/anshika1812)|2|15|
+|7|![PrabhatKeshari](https://avatars.githubusercontent.com/u/115912907?v=4&s=100)|[PrabhatKeshari](https://github.com/prabhat-04)|3|6|
