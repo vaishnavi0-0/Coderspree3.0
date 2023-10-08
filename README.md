@@ -12,7 +12,7 @@ Welcome to Coderspree3.0 🎃
 **Please visit the [Guide](./Guide/README.md)**  
 
 
-Minimum problems to complete | **Week_1**: `5` |   
+Minimum problems to complete | **Week_1**: `10` |   
 
 # Stats
   
@@ -25,4 +25,3 @@ Minimum problems to complete | **Week_1**: `5` |
 |4|![Invalid Foldername](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[Invalid Foldername](https://github.com/InnogeeksOrganization)|Invalid Foldername|15|
 |5|![AnantJaiswal](https://avatars.githubusercontent.com/u/110235072?v=4&s=100)|[AnantJaiswal](https://github.com/Anantj2499)|2|15|
 |6|![AnshikaChhabra](https://avatars.githubusercontent.com/u/124261062?v=4&s=100)|[AnshikaChhabra](https://github.com/anshika1812)|2|15|
-|7|![PrabhatKeshari](https://avatars.githubusercontent.com/u/115912907?v=4&s=100)|[PrabhatKeshari](https://github.com/prabhat-04)|3|6|
