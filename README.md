@@ -25,4 +25,5 @@ Minimum problems to complete | **Week_1**: `10` |
 |4|![AnantJaiswal](https://avatars.githubusercontent.com/u/110235072?v=4&s=100)|[AnantJaiswal](https://github.com/Anantj2499)|2|15|
 |5|![AnimeshKumarSingh](https://avatars.githubusercontent.com/u/111107139?v=4&s=100)|[AnimeshKumarSingh](https://github.com/any-mesh)|2|15|
 |6|![AnshikaChhabra](https://avatars.githubusercontent.com/u/124261062?v=4&s=100)|[AnshikaChhabra](https://github.com/anshika1812)|2|15|
-|7|![AdityaSharma](https://avatars.githubusercontent.com/u/123371724?v=4&s=100)|[AdityaSharma](https://github.com/adityshrma08)|2|15|
+|7|![ShreyaGarg](https://avatars.githubusercontent.com/u/123856766?v=4&s=100)|[ShreyaGarg](https://github.com/Geek-shreya)|2|15|
+|8|![AdityaSharma](https://avatars.githubusercontent.com/u/123371724?v=4&s=100)|[AdityaSharma](https://github.com/adityshrma08)|2|15|
