@@ -1,21 +1,38 @@
-#include<iostream>
+//{ Driver Code Starts
+#include <bits/stdc++.h>
+
 using namespace std;
 
-int main()
- {
-	// Write your code here
-	int n,even=0,odd=0,mod;
-	cin>>n;
-	
-	while(n!=0)
-	{
-		mod=n%10;
-		if(mod%2==0) even+=mod;
-		else odd+=mod;
-		n=n/10;
+// } Driver Code Ends
+class Solution {
+  public:
+    void printTriangle(int n)
+    {
+        // code here
+        for(int i=1;i<=n;i++)
+        {
+            for(int j=1;j<=i;j++)
+            {
+                cout<<"*"<<' ';
+                
+            }
+            cout<<endl;
+        }
+    }
+};
 
-	}
-	cout<<even<<'\t'<<odd;
-	return 0;
-	
+//{ Driver Code Starts.
+
+int main() {
+    int t;
+    cin >> t;
+    while (t--) {
+        int n;
+        cin >> n;
+
+        Solution ob;
+        ob.printTriangle(n);
+    }
+    return 0;
 }
+// } Driver Code Ends
