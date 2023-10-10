@@ -20,3 +20,4 @@ Welcome to Coderspree3.0 🔥
 |![AdityaPachauri](https://avatars.githubusercontent.com/u/103623274?v=4&s=100)|[AdityaPachauri](https://github.com/AdityyaX)|1|3|Completed `1` with minimum `10` in `Week_1`, |
 |![AdityaPachauri](https://avatars.githubusercontent.com/u/103623274?v=4&s=100)|[AdityaPachauri](https://github.com/AdityyaX)|1|3|Completed `1` with minimum `10` in `Week_1`, |
 |![AdityaPachauri](https://avatars.githubusercontent.com/u/103623274?v=4&s=100)|[AdityaPachauri](https://github.com/AdityyaX)|1|3|Completed `1` with minimum `10` in `Week_1`, |
+|![PariGupta](https://avatars.githubusercontent.com/u/123859373?v=4&s=100)|[PariGupta](https://github.com/seeeyaa)|0|2|`Week_1` Folder not found, |
