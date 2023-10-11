@@ -19,14 +19,14 @@ Minimum problems to complete | **Week_1**: `10` |
 
 |No|Profile|Name|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: |
-|1|![AryanPanwar](https://avatars.githubusercontent.com/u/121965055?v=4&s=100)|[AryanPanwar](https://github.com/chaudharyaryanpanwar)|2|16|
-|2|![GamandeepSingh](https://avatars.githubusercontent.com/u/116256043?v=4&s=100)|[GamandeepSingh](https://github.com/gamandeepsingh)|2|16|
-|3|![PraveerNandan](https://avatars.githubusercontent.com/u/134937008?v=4&s=100)|[PraveerNandan](https://github.com/praveer7398)|2|15|
-|4|![ArchitAgarwal](https://avatars.githubusercontent.com/u/133382714?v=4&s=100)|[ArchitAgarwal](https://github.com/Junior-Hawk)|2|15|
-|5|![AaradhyaGupta](https://avatars.githubusercontent.com/u/124498201?v=4&s=100)|[AaradhyaGupta](https://github.com/aaradhya2810)|2|15|
-|6|![PraptiSharma](https://avatars.githubusercontent.com/u/123169861?v=4&s=100)|[PraptiSharma](https://github.com/praptisharma28)|2|15|
-|7|![DeepanshuTyagi](https://avatars.githubusercontent.com/u/123951725?v=4&s=100)|[DeepanshuTyagi](https://github.com/29deepanshutyagi)|2|15|
-|8|![AvantikaSharma](https://avatars.githubusercontent.com/u/123316093?v=4&s=100)|[AvantikaSharma](https://github.com/AvantikaSharma2307)|2|15|
+|1|![PraveerNandan](https://avatars.githubusercontent.com/u/134937008?v=4&s=100)|[PraveerNandan](https://github.com/praveer7398)|2|15|
+|2|![AryanPanwar](https://avatars.githubusercontent.com/u/121965055?v=4&s=100)|[AryanPanwar](https://github.com/chaudharyaryanpanwar)|2|15|
+|3|![ArchitAgarwal](https://avatars.githubusercontent.com/u/133382714?v=4&s=100)|[ArchitAgarwal](https://github.com/Junior-Hawk)|2|15|
+|4|![AaradhyaGupta](https://avatars.githubusercontent.com/u/124498201?v=4&s=100)|[AaradhyaGupta](https://github.com/aaradhya2810)|2|15|
+|5|![PraptiSharma](https://avatars.githubusercontent.com/u/123169861?v=4&s=100)|[PraptiSharma](https://github.com/praptisharma28)|2|15|
+|6|![DeepanshuTyagi](https://avatars.githubusercontent.com/u/123951725?v=4&s=100)|[DeepanshuTyagi](https://github.com/29deepanshutyagi)|2|15|
+|7|![AvantikaSharma](https://avatars.githubusercontent.com/u/123316093?v=4&s=100)|[AvantikaSharma](https://github.com/AvantikaSharma2307)|2|15|
+|8|![GamandeepSingh](https://avatars.githubusercontent.com/u/116256043?v=4&s=100)|[GamandeepSingh](https://github.com/gamandeepsingh)|2|15|
 |9|![AnantJaiswal](https://avatars.githubusercontent.com/u/110235072?v=4&s=100)|[AnantJaiswal](https://github.com/Anantj2499)|2|15|
 |10|![AnimeshKumarSingh](https://avatars.githubusercontent.com/u/111107139?v=4&s=100)|[AnimeshKumarSingh](https://github.com/any-mesh)|2|15|
 |11|![AnshikaChhabra](https://avatars.githubusercontent.com/u/124261062?v=4&s=100)|[AnshikaChhabra](https://github.com/anshika1812)|2|15|
