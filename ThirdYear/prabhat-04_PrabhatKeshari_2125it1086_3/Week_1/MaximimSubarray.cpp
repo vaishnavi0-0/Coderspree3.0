@@ -11,6 +11,5 @@ public:
             ans = max(ans , curr_sum);
         }
         return ans;
-        
     }
 };

@@ -21,7 +21,6 @@ public:
         for(auto c:col){
             for(int i=0;i<m;i++)
                 matrix[i][c]=0;
-        }
-        
+        }   
     }
 };
