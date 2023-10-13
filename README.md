@@ -39,4 +39,5 @@ Minimum problems to complete | **Week_1**: `10` |
 |18|![AjeeshRawal](https://avatars.githubusercontent.com/u/118363624?v=4&s=100)|[AjeeshRawal](https://github.com/jeezzzz)|2|15|
 |19|![SarveshBaranwal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[SarveshBaranwal](https://github.com/serv-er)|2|15|
 |20|![RishuRaj](https://avatars.githubusercontent.com/u/133753604?v=4&s=100)|[RishuRaj](https://github.com/rishuraj1708)|2|14|
-|21|![RiaBabbar](https://avatars.githubusercontent.com/u/144810359?v=4&s=100)|[RiaBabbar](https://github.com/riababbar4)|2|10|
+|21|![AnoushkaGoel](https://avatars.githubusercontent.com/u/125151652?v=4&s=100)|[AnoushkaGoel](https://github.com/anoushka-10)|2|12|
+|22|![RiaBabbar](https://avatars.githubusercontent.com/u/144810359?v=4&s=100)|[RiaBabbar](https://github.com/riababbar4)|2|10|
