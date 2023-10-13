@@ -43,3 +43,4 @@ Minimum problems to complete | **Week_1**: `10` |
 |22|![RishuRaj](https://avatars.githubusercontent.com/u/133753604?v=4&s=100)|[RishuRaj](https://github.com/rishuraj1708)|2|14|
 |23|![AnoushkaGoel](https://avatars.githubusercontent.com/u/125151652?v=4&s=100)|[AnoushkaGoel](https://github.com/anoushka-10)|2|12|
 |24|![RiaBabbar](https://avatars.githubusercontent.com/u/144810359?v=4&s=100)|[RiaBabbar](https://github.com/riababbar4)|2|10|
+|25|![GarimaShukla](https://avatars.githubusercontent.com/u/106160730?v=4&s=100)|[GarimaShukla](https://github.com/Garima0812S)|3|10|
