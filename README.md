@@ -48,5 +48,6 @@ Minimum problems to complete | **Week_1**: `10` |
 |27|![PrabhatKeshari](https://avatars.githubusercontent.com/u/115912907?v=4&s=100)|[PrabhatKeshari](https://github.com/prabhat-04)|3|13|
 |28|![AnoushkaGoel](https://avatars.githubusercontent.com/u/125151652?v=4&s=100)|[AnoushkaGoel](https://github.com/anoushka-10)|2|12|
 |29|![AmaanLari](https://avatars.githubusercontent.com/u/91714752?v=4&s=100)|[AmaanLari](https://github.com/amaan-lari)|3|11|
-|30|![RiaBabbar](https://avatars.githubusercontent.com/u/144810359?v=4&s=100)|[RiaBabbar](https://github.com/riababbar4)|2|10|
-|31|![GarimaShukla](https://avatars.githubusercontent.com/u/106160730?v=4&s=100)|[GarimaShukla](https://github.com/Garima0812S)|3|10|
+|30|![PariGupta](https://avatars.githubusercontent.com/u/123859373?v=4&s=100)|[PariGupta](https://github.com/seeeyaa)|2|10|
+|31|![RiaBabbar](https://avatars.githubusercontent.com/u/144810359?v=4&s=100)|[RiaBabbar](https://github.com/riababbar4)|2|10|
+|32|![GarimaShukla](https://avatars.githubusercontent.com/u/106160730?v=4&s=100)|[GarimaShukla](https://github.com/Garima0812S)|3|10|
