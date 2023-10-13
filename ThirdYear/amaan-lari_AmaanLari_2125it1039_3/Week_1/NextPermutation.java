@@ -20,7 +20,7 @@ class Solution {
         int i;
         outer: for (i = lastIndex; i > 0; i--) {
             if(nums[i - 1] < nums[i]) {
-                inner: for (int j = lastIndex; j > i - 1; j--) {
+                for (int j = lastIndex; j > i - 1; j--) {
                     if (nums[j] > nums[i - 1]) {
                         swap(nums, i - 1, j);
                         break outer;

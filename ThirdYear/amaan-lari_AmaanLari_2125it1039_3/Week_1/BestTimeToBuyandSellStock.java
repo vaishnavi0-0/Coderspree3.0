@@ -1,9 +1,7 @@
 class Solution {
     public int maxProfit(int[] prices) {
         
-            int i = 0, j = 0, minpos = 0;
-            int max = prices[0];
-            int min = prices[0];
+            int i = 0, j = 0;
             int diff = prices[j] - prices[i];
             int ptr = 0;
             while(ptr != prices.length) {
