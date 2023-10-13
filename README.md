@@ -19,7 +19,7 @@ Minimum problems to complete | **Week_1**: `10` |
 
 |No|Profile|Name|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: |
-|1|![AyushiVarshney](https://avatars.githubusercontent.com/u/124452709?v=4&s=100)|[AyushiVarshney](https://github.com/Ayushi853)|2|16|
+|1|![AyushiVarshney](https://avatars.githubusercontent.com/u/124452709?v=4&s=100)|[AyushiVarshney](https://github.com/Ayushi853)|2|15|
 |2|![PraveerNandan](https://avatars.githubusercontent.com/u/134937008?v=4&s=100)|[PraveerNandan](https://github.com/praveer7398)|2|15|
 |3|![ParthAgarwal](https://avatars.githubusercontent.com/u/113423032?v=4&s=100)|[ParthAgarwal](https://github.com/Parth27904)|2|15|
 |4|![AryanPanwar](https://avatars.githubusercontent.com/u/121965055?v=4&s=100)|[AryanPanwar](https://github.com/chaudharyaryanpanwar)|2|15|
