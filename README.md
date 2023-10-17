@@ -12,20 +12,14 @@ Welcome to Coderspree3.0 🎃
 **Please visit the [Guide](./Guide/README.md)**  
 
 
-Minimum problems to complete | **Week_1**: `10` |   
+Minimum problems to complete | **Week_1**: `10` | **Week_2**: `10` |   
 
 # Stats
   
 
 |No|Profile|Name|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: |
-|1|![PraveerNandan](https://avatars.githubusercontent.com/u/134937008?v=4&s=100)|[PraveerNandan](https://github.com/praveer7398)|2|15|
-|2|![AaradhyaGupta](https://avatars.githubusercontent.com/u/124498201?v=4&s=100)|[AaradhyaGupta](https://github.com/aaradhya2810)|2|15|
-|3|![AvantikaSharma](https://avatars.githubusercontent.com/u/123316093?v=4&s=100)|[AvantikaSharma](https://github.com/AvantikaSharma2307)|2|15|
-|4|![AnantJaiswal](https://avatars.githubusercontent.com/u/110235072?v=4&s=100)|[AnantJaiswal](https://github.com/Anantj2499)|2|15|
-|5|![AnimeshKumarSingh](https://avatars.githubusercontent.com/u/111107139?v=4&s=100)|[AnimeshKumarSingh](https://github.com/any-mesh)|2|15|
-|6|![AnshikaChhabra](https://avatars.githubusercontent.com/u/124261062?v=4&s=100)|[AnshikaChhabra](https://github.com/anshika1812)|2|15|
-|7|![ShreyaGarg](https://avatars.githubusercontent.com/u/123856766?v=4&s=100)|[ShreyaGarg](https://github.com/Geek-shreya)|2|15|
-|8|![AdityaSharma](https://avatars.githubusercontent.com/u/123371724?v=4&s=100)|[AdityaSharma](https://github.com/adityshrma08)|2|15|
-|9|![AjeeshRawal](https://avatars.githubusercontent.com/u/118363624?v=4&s=100)|[AjeeshRawal](https://github.com/jeezzzz)|2|15|
-|10|![RiaBabbar](https://avatars.githubusercontent.com/u/144810359?v=4&s=100)|[RiaBabbar](https://github.com/riababbar4)|2|10|
+|1|![PraveerNandan](https://avatars.githubusercontent.com/u/134937008?v=4&s=100)|[PraveerNandan](https://github.com/praveer7398)|2|25|
+|2|![ParthAgarwal](https://avatars.githubusercontent.com/u/113423032?v=4&s=100)|[ParthAgarwal](https://github.com/Parth27904)|2|25|
+|3|![AnantJaiswal](https://avatars.githubusercontent.com/u/110235072?v=4&s=100)|[AnantJaiswal](https://github.com/Anantj2499)|2|25|
+|4|![AnimeshKumarSingh](https://avatars.githubusercontent.com/u/111107139?v=4&s=100)|[AnimeshKumarSingh](https://github.com/any-mesh)|2|25|
