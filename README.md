@@ -46,9 +46,10 @@ Minimum problems to complete | **Week_1**: `10` |
 |25|![SarveshBaranwal](https://avatars.githubusercontent.com/u/120189782?v=4&s=100)|[SarveshBaranwal](https://github.com/serv-er)|2|15|
 |26|![RishuRaj](https://avatars.githubusercontent.com/u/133753604?v=4&s=100)|[RishuRaj](https://github.com/rishuraj1708)|2|14|
 |27|![PrabhatKeshari](https://avatars.githubusercontent.com/u/115912907?v=4&s=100)|[PrabhatKeshari](https://github.com/prabhat-04)|3|13|
-|28|![AnoushkaGoel](https://avatars.githubusercontent.com/u/125151652?v=4&s=100)|[AnoushkaGoel](https://github.com/anoushka-10)|2|12|
-|29|![AmaanLari](https://avatars.githubusercontent.com/u/91714752?v=4&s=100)|[AmaanLari](https://github.com/amaan-lari)|3|11|
-|30|![PariGupta](https://avatars.githubusercontent.com/u/123859373?v=4&s=100)|[PariGupta](https://github.com/seeeyaa)|2|10|
-|31|![RiaBabbar](https://avatars.githubusercontent.com/u/144810359?v=4&s=100)|[RiaBabbar](https://github.com/riababbar4)|2|10|
-|32|![HarshiAgrawal](https://avatars.githubusercontent.com/u/114180714?v=4&s=100)|[HarshiAgrawal](https://github.com/harshi706)|3|10|
-|33|![GarimaShukla](https://avatars.githubusercontent.com/u/106160730?v=4&s=100)|[GarimaShukla](https://github.com/Garima0812S)|3|10|
+|28|![PrakhalGupta](https://avatars.githubusercontent.com/u/103833711?v=4&s=100)|[PrakhalGupta](https://github.com/prakhal-gupta)|3|13|
+|29|![AnoushkaGoel](https://avatars.githubusercontent.com/u/125151652?v=4&s=100)|[AnoushkaGoel](https://github.com/anoushka-10)|2|12|
+|30|![AmaanLari](https://avatars.githubusercontent.com/u/91714752?v=4&s=100)|[AmaanLari](https://github.com/amaan-lari)|3|11|
+|31|![PariGupta](https://avatars.githubusercontent.com/u/123859373?v=4&s=100)|[PariGupta](https://github.com/seeeyaa)|2|10|
+|32|![RiaBabbar](https://avatars.githubusercontent.com/u/144810359?v=4&s=100)|[RiaBabbar](https://github.com/riababbar4)|2|10|
+|33|![HarshiAgrawal](https://avatars.githubusercontent.com/u/114180714?v=4&s=100)|[HarshiAgrawal](https://github.com/harshi706)|3|10|
+|34|![GarimaShukla](https://avatars.githubusercontent.com/u/106160730?v=4&s=100)|[GarimaShukla](https://github.com/Garima0812S)|3|10|
