@@ -13,7 +13,6 @@ Welcome to Coderspree3.0 🔥
 |![PraptiSharma](https://avatars.githubusercontent.com/u/123169861?v=4&s=100)|[PraptiSharma](https://github.com/praptisharma28)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![GautamAgrahari](https://avatars.githubusercontent.com/u/132156711?v=4&s=100)|[GautamAgrahari](https://github.com/gautam0429)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![ApoorvaSrivastava](https://avatars.githubusercontent.com/u/122932821?v=4&s=100)|[ApoorvaSrivastava](https://github.com/ApoorvaSri123)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
-|![DeepanshuTyagi](https://avatars.githubusercontent.com/u/123951725?v=4&s=100)|[DeepanshuTyagi](https://github.com/29deepanshutyagi)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![SatyagyaSingh](https://avatars.githubusercontent.com/u/123818561?v=4&s=100)|[SatyagyaSingh](https://github.com/satyagyasingh)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![AvantikaSharma](https://avatars.githubusercontent.com/u/123316093?v=4&s=100)|[AvantikaSharma](https://github.com/AvantikaSharma2307)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![Nayni](https://avatars.githubusercontent.com/u/132836849?v=4&s=100)|[Nayni](https://github.com/naynisinghal1008)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
