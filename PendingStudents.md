@@ -43,3 +43,4 @@ Welcome to Coderspree3.0 🔥
 |![KishanAgrawal](https://avatars.githubusercontent.com/u/130860302?v=4&s=100)|[KishanAgrawal](https://github.com/Kishan663)|1|2|Completed `1` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![HarshSharma](https://avatars.githubusercontent.com/u/107609071?v=4&s=100)|[HarshSharma](https://github.com/Rannzer)|1|2|Completed `1` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![AdityaPachauri](https://avatars.githubusercontent.com/u/103623274?v=4&s=100)|[AdityaPachauri](https://github.com/AdityyaX)|1|3|Completed `1` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
+|![AnshVerma](https://avatars.githubusercontent.com/u/124695211?v=4&s=100)|[AnshVerma](https://github.com/anshv-dev)|0|2|`Week_1` Folder not found, `Week_2` Folder not found, |
