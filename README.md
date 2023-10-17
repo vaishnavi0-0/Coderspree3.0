@@ -20,4 +20,5 @@ Minimum problems to complete | **Week_1**: `10` | **Week_2**: `10` |
 |No|Profile|Name|Year|Solved|
 | :---: | :---: | :---: | :---: | :---: |
 |1|![PraveerNandan](https://avatars.githubusercontent.com/u/134937008?v=4&s=100)|[PraveerNandan](https://github.com/praveer7398)|2|25|
-|2|![AnimeshKumarSingh](https://avatars.githubusercontent.com/u/111107139?v=4&s=100)|[AnimeshKumarSingh](https://github.com/any-mesh)|2|25|
+|2|![ParthAgarwal](https://avatars.githubusercontent.com/u/113423032?v=4&s=100)|[ParthAgarwal](https://github.com/Parth27904)|2|25|
+|3|![AnimeshKumarSingh](https://avatars.githubusercontent.com/u/111107139?v=4&s=100)|[AnimeshKumarSingh](https://github.com/any-mesh)|2|25|
