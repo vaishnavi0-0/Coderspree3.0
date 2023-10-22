@@ -29,3 +29,4 @@ Minimum problems to complete | **Week_1**: `10` | **Week_2**: `10` |
 |8|![ArchitAgarwal](https://avatars.githubusercontent.com/u/133382714?v=4&s=100)|[ArchitAgarwal](https://github.com/Junior-Hawk)|2|25|
 |9|![SarveshBaranwal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[SarveshBaranwal](https://github.com/Serve-er)|2|25|
 |10|![AnantJaiswal](https://avatars.githubusercontent.com/u/110235072?v=4&s=100)|[AnantJaiswal](https://github.com/Anantj2499)|2|25|
+|11|![HarshiAgrawal](https://avatars.githubusercontent.com/u/114180714?v=4&s=100)|[HarshiAgrawal](https://github.com/harshi706)|3|20|
