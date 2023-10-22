@@ -34,7 +34,6 @@ Welcome to Coderspree3.0 🔥
 |![RiaBabbar](https://avatars.githubusercontent.com/u/144810359?v=4&s=100)|[RiaBabbar](https://github.com/riababbar4)|10|2|Completed `10` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![PariGupta](https://avatars.githubusercontent.com/u/123859373?v=4&s=100)|[PariGupta](https://github.com/seeeyaa)|10|2|Completed `10` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![GarimaShukla](https://avatars.githubusercontent.com/u/106160730?v=4&s=100)|[GarimaShukla](https://github.com/Garima0812S)|10|3|Completed `10` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
-|![HarshiAgrawal](https://avatars.githubusercontent.com/u/114180714?v=4&s=100)|[HarshiAgrawal](https://github.com/harshi706)|10|3|Completed `10` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![KishanAgrawal](https://avatars.githubusercontent.com/u/130860302?v=4&s=100)|[KishanAgrawal](https://github.com/Kishan663)|1|2|Completed `1` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![HarshSharma](https://avatars.githubusercontent.com/u/107609071?v=4&s=100)|[HarshSharma](https://github.com/Rannzer)|1|2|Completed `1` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![AbhinavRai](https://avatars.githubusercontent.com/u/122885696?v=4&s=100)|[AbhinavRai](https://github.com/AbhinavJD7)|1|2|Completed `1` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
