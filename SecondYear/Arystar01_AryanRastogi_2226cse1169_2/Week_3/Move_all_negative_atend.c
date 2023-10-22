@@ -18,10 +18,11 @@ int main(){
         for(int j=0;j<n-1;j++){
             if(arr[j]<0 )
             {int temp;
+            if(arr[j+1]>0){
                 temp=arr[j];
                 arr[j]=arr[j+1];
                 arr[j+1]=temp;
-            }
+            }}
         }
     }
     printf("The array after putting all negative as end is :");
