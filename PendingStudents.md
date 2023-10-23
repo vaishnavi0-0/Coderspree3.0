@@ -17,7 +17,6 @@ Welcome to Coderspree3.0 🔥
 |![SrishtiSingh](https://avatars.githubusercontent.com/u/123953052?v=4&s=100)|[SrishtiSingh](https://github.com/itsrishti)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![AaradhyaGupta](https://avatars.githubusercontent.com/u/124498201?v=4&s=100)|[AaradhyaGupta](https://github.com/aaradhya2810)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![AjeeshRawal](https://avatars.githubusercontent.com/u/118363624?v=4&s=100)|[AjeeshRawal](https://github.com/jeezzzz)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
-|![MohdSauban](https://avatars.githubusercontent.com/u/124676349?v=4&s=100)|[MohdSauban](https://github.com/sauban123)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![VikashKumarSwarnkar](https://avatars.githubusercontent.com/u/146004981?v=4&s=100)|[VikashKumarSwarnkar](https://github.com/swarnkarvikash)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![Nayni](https://avatars.githubusercontent.com/u/132836849?v=4&s=100)|[Nayni](https://github.com/naynisinghal1008)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
 |![KshitizAgarwal](https://avatars.githubusercontent.com/u/64627666?v=4&s=100)|[KshitizAgarwal](https://github.com/ksh1710)|15|2|Completed `15` with minimum `10` in `Week_1`, `Week_2` Folder not found, |
