@@ -36,5 +36,5 @@ Minimum problems to complete | **Week_1**: `10` | **Week_2**: `10` |
 |15|![MohdSauban](https://avatars.githubusercontent.com/u/124676349?v=4&s=100)|[MohdSauban](https://github.com/sauban123)|2|25|
 |16|![SarveshBaranwal](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[SarveshBaranwal](https://github.com/Serve-er)|2|25|
 |17|![AnantJaiswal](https://avatars.githubusercontent.com/u/110235072?v=4&s=100)|[AnantJaiswal](https://github.com/Anantj2499)|2|25|
-|18|![PrabhatKeshari](https://avatars.githubusercontent.com/u/84376218?v=4&s=100)|[PrabhatKeshari](https://github.com/prabhat-04)|3|23|
+|18|![PrabhatKeshari](https://avatars.githubusercontent.com/u/115912907?v=4&s=100)|[PrabhatKeshari](https://github.com/prabhat-04)|3|23|
 |19|![HarshiAgrawal](https://avatars.githubusercontent.com/u/114180714?v=4&s=100)|[HarshiAgrawal](https://github.com/harshi706)|3|20|
