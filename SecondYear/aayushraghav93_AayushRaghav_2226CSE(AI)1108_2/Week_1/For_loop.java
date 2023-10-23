@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class forloop {
+public class For_loop {
 	static int fib(int n)
     {
         if (n==0)

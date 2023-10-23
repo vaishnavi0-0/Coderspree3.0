@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class DataTypes {
+public class Data_types {
     public static int dataTypes(String type) {
         //System.out.println(type);
         int a=0;
