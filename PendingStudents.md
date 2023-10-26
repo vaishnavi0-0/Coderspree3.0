@@ -6,12 +6,10 @@ Welcome to Coderspree3.0 🔥
 
 |Profile|Name|Solved|Year|logs|
 | :---: | :---: | :---: | :---: | :---: |
-|![AayushRaghav](https://avatars.githubusercontent.com/u/132363044?v=4&s=100)|[AayushRaghav](https://github.com/aayushraghav93)|25|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, `Week_3` Folder not found, |
 |![AjeeshRawal](https://avatars.githubusercontent.com/u/118363624?v=4&s=100)|[AjeeshRawal](https://github.com/jeezzzz)|25|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, `Week_3` Folder not found, |
 |![ShreyaGarg](https://avatars.githubusercontent.com/u/123856766?v=4&s=100)|[ShreyaGarg](https://github.com/Geek-shreya)|25|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, `Week_3` Folder not found, |
 |![KshitizAgarwal](https://avatars.githubusercontent.com/u/64627666?v=4&s=100)|[KshitizAgarwal](https://github.com/ksh1710)|25|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, `Week_3` Folder not found, |
 |![PariGupta](https://avatars.githubusercontent.com/u/123859373?v=4&s=100)|[PariGupta](https://github.com/seeeyaa)|25|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, `Week_3` Folder not found, |
-|![ApoorvaSrivastava](https://avatars.githubusercontent.com/u/122932821?v=4&s=100)|[ApoorvaSrivastava](https://github.com/ApoorvaSri123)|25|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, `Week_3` Folder not found, |
 |![AdityaSharma](https://avatars.githubusercontent.com/u/123371724?v=4&s=100)|[AdityaSharma](https://github.com/adityshrma08)|25|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, `Week_3` Folder not found, |
 |![ArchitAgarwal](https://avatars.githubusercontent.com/u/133382714?v=4&s=100)|[ArchitAgarwal](https://github.com/Junior-Hawk)|25|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, `Week_3` Folder not found, |
 |![DivyanshSrivastav](https://avatars.githubusercontent.com/u/133378091?v=4&s=100)|[DivyanshSrivastav](https://github.com/Divyansh670)|25|2|Completed `15` with minimum `10` in `Week_1`, Completed `10` with minimum `10` in `Week_2`, `Week_3` Folder not found, |
