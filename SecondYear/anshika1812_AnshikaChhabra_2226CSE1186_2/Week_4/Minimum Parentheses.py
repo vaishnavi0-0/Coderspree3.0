@@ -10,6 +10,7 @@ while(t!=0):
                 close-=1
             else:
                 min+=1
+                close-=1
         else:
             open+=1
     print(min+open)
