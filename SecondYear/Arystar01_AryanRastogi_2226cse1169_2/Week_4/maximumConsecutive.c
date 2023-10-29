@@ -1,26 +1,34 @@
-#include<stdio.h>
-#include<string.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 
-
-int maxTrafficJam(int vehicle[], int n, int m) {
+int maxTrafficJam(int vehicle[], int n, int m)
+{
     int max = 0;
     int current = 0;
     int flips = 0;
 
-    for (int i = 0; i < n; i++) {
-        if (vehicle[i] == 1) {
+    for (int i = 0; i < n; i++)
+    {
+        if (vehicle[i] == 1)
+        {
             current++;
-        } else {
-            if (flips < m) {
+        }
+        else
+        {
+            if (flips < m)
+            {
                 current++;
                 flips++;
-            } else {
+            }
+            else
+            {
                 current = 0;
             }
         }
 
-        if (current > max) {
+        if (current > max)
+        {
             max = current;
         }
     }
@@ -28,13 +36,15 @@ int maxTrafficJam(int vehicle[], int n, int m) {
     return max;
 }
 
-int main() {
+int main()
+{
     int n, m;
     scanf("%d %d", &n, &m);
 
     int vehicle[n];
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++)
+    {
         scanf("%d", &vehicle[i]);
     }
 
