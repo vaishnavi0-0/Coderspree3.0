@@ -21,10 +21,11 @@ Minimum problems to complete | **Week_1**: `10` | **Week_2**: `10` | **Week_3**:
 | :---: | :---: | :---: | :---: | :---: |
 |1|![AnimeshKumarSingh](https://avatars.githubusercontent.com/u/111107139?v=4&s=100)|[AnimeshKumarSingh](https://github.com/any-mesh)|2|45|
 |2|![AayushRaghav](https://avatars.githubusercontent.com/u/132363044?v=4&s=100)|[AayushRaghav](https://github.com/aayushraghav93)|2|45|
-|3|![AnshikaChhabra](https://avatars.githubusercontent.com/u/124261062?v=4&s=100)|[AnshikaChhabra](https://github.com/anshika1812)|2|45|
-|4|![MohdSauban](https://avatars.githubusercontent.com/u/124676349?v=4&s=100)|[MohdSauban](https://github.com/sauban123)|2|45|
-|5|![AnantJaiswal](https://avatars.githubusercontent.com/u/110235072?v=4&s=100)|[AnantJaiswal](https://github.com/Anantj2499)|2|45|
-|6|![AryanRastogi](https://avatars.githubusercontent.com/u/134607843?v=4&s=100)|[AryanRastogi](https://github.com/Arystar01)|2|45|
-|7|![PraveerNandan](https://avatars.githubusercontent.com/u/134937008?v=4&s=100)|[PraveerNandan](https://github.com/praveer7398)|2|45|
-|8|![ApoorvaSrivastava](https://avatars.githubusercontent.com/u/122932821?v=4&s=100)|[ApoorvaSrivastava](https://github.com/ApoorvaSri123)|2|45|
-|9|![GamandeepSingh](https://avatars.githubusercontent.com/u/116256043?v=4&s=100)|[GamandeepSingh](https://github.com/gamandeepsingh)|2|45|
+|3|![LakshayJain](https://avatars.githubusercontent.com/u/145541421?v=4&s=100)|[LakshayJain](https://github.com/LakshayJain458)|2|45|
+|4|![AnshikaChhabra](https://avatars.githubusercontent.com/u/124261062?v=4&s=100)|[AnshikaChhabra](https://github.com/anshika1812)|2|45|
+|5|![MohdSauban](https://avatars.githubusercontent.com/u/124676349?v=4&s=100)|[MohdSauban](https://github.com/sauban123)|2|45|
+|6|![AnantJaiswal](https://avatars.githubusercontent.com/u/110235072?v=4&s=100)|[AnantJaiswal](https://github.com/Anantj2499)|2|45|
+|7|![AryanRastogi](https://avatars.githubusercontent.com/u/134607843?v=4&s=100)|[AryanRastogi](https://github.com/Arystar01)|2|45|
+|8|![PraveerNandan](https://avatars.githubusercontent.com/u/134937008?v=4&s=100)|[PraveerNandan](https://github.com/praveer7398)|2|45|
+|9|![ApoorvaSrivastava](https://avatars.githubusercontent.com/u/122932821?v=4&s=100)|[ApoorvaSrivastava](https://github.com/ApoorvaSri123)|2|45|
+|10|![GamandeepSingh](https://avatars.githubusercontent.com/u/116256043?v=4&s=100)|[GamandeepSingh](https://github.com/gamandeepsingh)|2|45|
